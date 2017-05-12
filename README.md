@@ -1,2 +1,4 @@
 # init
-init docs
+init docs of ecogas uk project
+
+https://www.ecogas.org
